@@ -10,14 +10,14 @@ Metaphorical language remains a major challenge for multilingual natural languag
 Towards End-to-End Multilingual Metaphor Processing: Integrating Detection, Translation, and Evaluation
 J Liang, L Han
 arXiv preprint arXiv:2608.04260
-Accepted by AACL-SRW 2026: forthcoming. Zhuhai, China.
+Accepted by AACL-2026 SRW: forthcoming. Hengqin, China. November 6-10, 2026.
 
 or 
 
 @article{liang2026towards,
   title={Towards End-to-End Multilingual Metaphor Processing: Integrating Detection, Translation, and Evaluation},
   author={Liang, Jiahui and Han, Lifeng},
-  journal={arXiv preprint arXiv:2608.04260. Accepted by AACL-SRW 2026},
+  journal={arXiv preprint arXiv:2608.04260. Accepted by AACL-2026 SRW},
   year={2026}
 }
 
